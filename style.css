@@ -143,7 +143,7 @@
     grid-gap: var(--content-spacing);
   }
 
-  @media(min-width: 600px) {
+  @media(min-width: 600px) and (min-height: 100vh) {
     .product {
       --content-padding: 2rem;
      grid-template-columns: 1fr 1fr;
