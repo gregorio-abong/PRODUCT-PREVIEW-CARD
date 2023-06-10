@@ -144,10 +144,10 @@
     grid-gap: var(--content-spacing);
   }
 
-  @media(min-width: 600px) and (min-height: 100%) {
+  @media(min-width: 600px) {
     body {
-      width: 100%;
-      height: 100%;
+      width: auto;
+      height: 100vh;
     }
     .product {
       --content-padding: 2rem;
