@@ -130,6 +130,7 @@
     --content-padding: 1.5rem;
     --content-spacing: 1rem;
     
+    margin-top: 2rem;
     display: grid;
     background-color: var(--clr-neutral-white);
     border-radius: 0.5rem;
