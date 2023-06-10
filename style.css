@@ -146,8 +146,8 @@
 
   @media(min-width: 600px) {
     body {
-      width: auto;
-      height: 100vh;
+     display: flex;
+     align-items: center;
     }
     .product {
       --content-padding: 2rem;
