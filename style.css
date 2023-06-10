@@ -148,6 +148,7 @@
     body {
      display: flex;
      align-items: center;
+     overflow: auto;
     }
     .product {
       --content-padding: 2rem;
